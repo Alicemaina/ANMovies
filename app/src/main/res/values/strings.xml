@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ANMovies</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_details">MovieDetails</string>
+    <string name="large_text">
+        A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.\n \n
+        If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.\n
+    </string>
+    <string name="title_activity_favourite">Favourite Movies</string>
+    <string name="latest">Latest</string>
+    <string name="movies">Movies</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="upcoming">UpComing</string>
+    <string name="tv">Tv</string>
+    <string name="favourite">Favourite</string>
+    <string name="tv_s">Tv\'s</string>
+    <string name="profile">Profile</string>
+    <string name="send">Send</string>
+    <string name="share">Share</string>
+    <string name="communicate">Communicate</string>
+    <string name="title_activity_movies_details">MoviesDetailsActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="movie_category">Category: %s</string>
+    <string name="rating">Rating: </string>
+    <string name="released_date">Released date: %s</string>
+
+</resources>
